@@ -22,6 +22,3 @@ Bzura-1939/
 ├── resources/              # Wspólne zasoby graficzne: żetony, mapy, okładki, itp.
 └── saves/                  # Zawiera zapis z rozstawieniem początkowym:
 ```
-
-### 1️⃣ Lot nad Kamienką
-<img src="resources/cover/Bzura%20-%20Okładka.png"\>
